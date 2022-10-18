@@ -15,6 +15,9 @@
 * Microsoft.Extensions.Logging.Debug Version="3.1.30"
 * Microsoft.VisualStudio.Web.CodeGeneration.Design Version="3.1.4"
 
+
+* Bootstrap v4.3.1
+
 ###### To run application use:
 * SqlServer > database IdentityByExamplesDB
 * Email> email to manage account authorizations
@@ -34,5 +37,5 @@ update-database
 * Service to manage token sends by email
 
 #### Libraries
-Microsoft.AspNetCore.Http.Features Version="3.1.30" />
-NETCore.MailKit Version="2.0.2" />
+* Microsoft.AspNetCore.Http.Features Version="3.1.30" />
+* NETCore.MailKit Version="2.0.2" />
