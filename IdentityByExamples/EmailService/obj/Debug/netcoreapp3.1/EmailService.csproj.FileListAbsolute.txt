@@ -1,0 +1,10 @@
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.AssemblyReference.cache
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+D:\Projects\WebApps\NetCore\identity-aspnetcore\IdentityByExamples\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
