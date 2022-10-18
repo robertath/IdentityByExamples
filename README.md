@@ -7,13 +7,13 @@
 ### To `IdentityByExamples` project only:
 
 ###### Libraries
-* Microsoft.AspNetCore.Identity.EntityFrameworkCore
-* AutoMapper.Extensions.Microsoft.DependencyInjection
-* Microsoft.EntityFrameworkCore
-* Microsoft.EntityFrameworkCore.SqlServer
-* Microsoft.EntityFrameworkCore.Tools
-* Microsoft.Extensions.Logging.Debug
-* Microsoft.VisualStudio.Web.CodeGeneration.Design
+* Microsoft.AspNetCore.Identity.EntityFrameworkCore Version="3.1.30"
+* AutoMapper.Extensions.Microsoft.DependencyInjection Version="7.0.0"
+* Microsoft.EntityFrameworkCore Version="3.1.30"
+* Microsoft.EntityFrameworkCore.SqlServer Version="3.1.30"
+* Microsoft.EntityFrameworkCore.Tools Version="3.1.30"
+* Microsoft.Extensions.Logging.Debug Version="3.1.30"
+* Microsoft.VisualStudio.Web.CodeGeneration.Design Version="3.1.4"
 
 ###### To run application use:
 * SqlServer > database IdentityByExamplesDB
@@ -32,3 +32,7 @@ update-database
 
 ### To `Email service` project only:
 * Service to manage token sends by email
+
+#### Libraries
+Microsoft.AspNetCore.Http.Features Version="3.1.30" />
+NETCore.MailKit Version="2.0.2" />
