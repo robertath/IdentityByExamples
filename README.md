@@ -4,7 +4,7 @@
 	* Account with 2FA for, Authentication confirmed by email, Logout, Forgot and Reset Passoword
 
 
-### To `FilmesAPI` project only:
+### To `IdentityByExamples` project only:
 
 ###### Libraries
 * Microsoft.AspNetCore.Identity.EntityFrameworkCore
@@ -30,3 +30,5 @@ update-database
 ```
 
 
+### To `Email service` project only:
+* Service to manage token sends by email
